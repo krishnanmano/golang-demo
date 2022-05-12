@@ -1,0 +1,1 @@
+counterfeiter allows you to simply generate test doubles for a given interface.
